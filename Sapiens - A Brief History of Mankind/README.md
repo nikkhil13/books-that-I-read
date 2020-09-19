@@ -1,3 +1,13 @@
+# Sapiens - A Brief History of Mankind
+
+Today, there is only one human species left: **Us. Homo sapiens.** We rule this planet.
+
+Sapiens, the book, takes us on a breath-taking ride through our entire human history, from its evolutionary roots to the age of capitalism and genetic engineering, to uncover why we are the way we are.
+
+As this book is heavy on factual information, this is my attempt to document what I read to help me retain all this fascinating information. 
+
+_Remember - we are all living in an imagined reality._
+
 ### Notes divided into chapters - 
 
 1. [The Cognitive Revolution](https://github.com/nikkhil13/books-that-I-read/blob/master/Sapiens%20-%20A%20Brief%20History%20of%20Mankind/1.%20The%20Cognitive%20Revolution.pdf)
