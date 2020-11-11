@@ -8,6 +8,8 @@ As this book is heavy on factual information, this is my attempt to document wha
 
 _Remember - we are all living in an imagined reality._
 
+Summary of the book - [TEDx Talk by Yuval Noah Harari](https://www.youtube.com/watch?v=nzj7Wg4DAbs&ab_channel=TED)
+
 ### Notes divided into chapters (done reading!) - 
 
 1. [The Cognitive Revolution](https://github.com/nikkhil13/books-that-I-read/blob/master/Sapiens%20-%20A%20Brief%20History%20of%20Mankind/1.%20The%20Cognitive%20Revolution.pdf)
